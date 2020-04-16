@@ -13,3 +13,4 @@ I designed and implemented an app that would allow the user to track scores betw
 <li>Finding views by ID</li>
 
 <h2>Final Output - Screenshots</h2>
+<img src="https://user-images.githubusercontent.com/34871894/79429353-a3477000-7f84-11ea-8bbe-e65d1c2bf919.jpg" width="400">
